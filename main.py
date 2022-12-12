@@ -8,7 +8,6 @@ from estatistica_detalhada import EstatisticaDetalhada
 from estatistica_resumida import EstatisticaResumida
 
 
-
 teste_fabrica = FabricaFila.pega_fila('prioritaria')
 teste_fabrica.atualiza_fila()
 teste_fabrica.atualiza_fila()
