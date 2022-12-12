@@ -1,5 +1,6 @@
 from typing import List, Dict, Union
 
+
 class EstatisticaDetalhada:
     def __init__(self, dia: str, agencia: int) -> None:
         self.dia = dia
